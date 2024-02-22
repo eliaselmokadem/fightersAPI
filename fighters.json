@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "name": "Conor McGregor",
+        "nationality": "Irish",
+        "age": 33,
+        "active": true,
+        "birthdate": "1988-07-14",
+        "profile_image": "https://example.com/conor_mcgregor.jpg",
+        "status": "active",
+        "weightclass": ["featherweight", "lightweight", "welterweight"],
+        "other_details": {
+          "id": 101,
+          "height": 175,
+          "weight": 70,
+          "reach": 188,
+          "record": "22-5-0",
+          "stance": "orthodox"
+        }
+    },  
+    {
+        "id": 2,
+        "name": "Rinat Fakhretdinov",
+        "nationality": "Russian(Tatarstan)",
+        "age": 29,
+        "active": true,
+        "birthdate": "1993-09-12",
+        "profile_image": "https://example.com/rinat_fakhretdinov.jpg",
+        "status": "active",
+        "weightclass": ["lightweight"],
+        "other_details": {
+          "id": 102,
+          "height": 180,
+          "weight": 70,
+          "reach": 185,
+          "record": "14-3-0",
+          "stance": "orthodox"
+        }
+    },      
+    {
+        "id": 3,
+        "name": "Khamzat Chimaev",
+        "nationality": "Russian(Chechnya)",
+        "age": 27,
+        "active": true,
+        "birthdate": "1994-05-01",
+        "profile_image": "https://example.com/khamzat_chimaev.jpg",
+        "status": "active",
+        "weightclass": ["welterweight"],
+        "other_details": {
+          "id": 103,
+          "height": 185,
+          "weight": 77,
+          "reach": 191,
+          "record": "10-0-0",
+          "stance": "southpaw"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Khabib Nurmagomedov",
+        "nationality": "Russian",
+        "age": 33,
+        "active": false,
+        "birthdate": "1988-09-20",
+        "profile_image": "https://example.com/khabib_nurmagomedov.jpg",
+        "status": "retired",
+        "weightclass": ["lightweight"],
+        "other_details": {
+          "id": 104,
+          "height": 178,
+          "weight": 70,
+          "reach": 177,
+          "record": "29-0-0",
+          "stance": "orthodox"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Ottman Azaitar",
+        "nationality": "Moroccan",
+        "age": 32,
+        "active": false,
+        "birthdate": "1989-03-20",
+        "profile_image": "https://example.com/ottman_azaitar.jpg",
+        "status": "inactive",
+        "weightclass": ["lightweight"],
+        "other_details": {
+          "id": 105,
+          "height": 175,
+          "weight": 70,
+          "reach": 178,
+          "record": "13-0-0",
+          "stance": "orthodox"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Abubakar Azaitar",
+        "nationality": "Moroccan",
+        "age": 35,
+        "active": true,
+        "birthdate": "1989-12-30",
+        "profile_image": "https://example.com/abubakar_azaitar.jpg",
+        "status": "active",
+        "weightclass": ["welterweight"],
+        "other_details": {
+          "id": 106,
+          "height": 180,
+          "weight": 77,
+          "reach": 185,
+          "record": "14-3-1",
+          "stance": "orthodox"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Islam Makhachev",
+        "nationality": "Russian",
+        "age": 30,
+        "active": true,
+        "birthdate": "1991-09-27",
+        "profile_image": "https://example.com/islam_makhachev.jpg",
+        "status": "active",
+        "weightclass": ["lightweight"],
+        "other_details": {
+          "id": 107,
+          "height": 177,
+          "weight": 70,
+          "reach": 178,
+          "record": "21-1-0",
+          "stance": "orthodox"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Movsar Evloev",
+        "nationality": "Russian",
+        "age": 27,
+        "active": true,
+        "birthdate": "1994-09-02",
+        "profile_image": "https://example.com/movsar_evloev.jpg",
+        "status": "active",
+        "weightclass": ["featherweight"],
+        "other_details": {
+          "id": 108,
+          "height": 172,
+          "weight": 66,
+          "reach": 175,
+          "record": "15-0-0",
+          "stance": "orthodox"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Daniel Cormier",
+        "nationality": "American",
+        "age": 42,
+        "active": false,
+        "birthdate": "1979-03-20",
+        "profile_image": "https://example.com/daniel_cormier.jpg",
+        "status": "retired",
+        "weightclass": ["light heavyweight", "heavyweight"],
+        "other_details": {
+          "id": 109,
+          "height": 180,
+          "weight": 109,
+          "reach": 185,
+          "record": "22-3-0",
+          "stance": "orthodox"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Charles Oliveira",
+        "nationality": "Brazilian",
+        "age": 32,
+        "active": true,
+        "birthdate": "1989-10-17",
+        "profile_image": "https://example.com/charles_oliveira.jpg",
+        "status": "active",
+        "weightclass": ["lightweight", "featherweight"],
+        "other_details": {
+          "id": 110,
+          "height": 180,
+          "weight": 70,
+          "reach": 190,
+          "record": "31-8-0",
+          "stance": "southpaw"
+        }
+    }
+]
