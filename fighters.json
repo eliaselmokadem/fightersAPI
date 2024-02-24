@@ -6,7 +6,7 @@
         "age": 33,
         "active": true,
         "birthdate": "1988-07-14",
-        "profile_image": "https://example.com/conor_mcgregor.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/1.png",
         "status": "active",
         "weightclass": ["featherweight", "lightweight", "welterweight"],
         "other_details": {
@@ -25,7 +25,7 @@
         "age": 29,
         "active": true,
         "birthdate": "1993-09-12",
-        "profile_image": "https://example.com/rinat_fakhretdinov.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/2.png",
         "status": "active",
         "weightclass": ["lightweight"],
         "other_details": {
@@ -44,7 +44,7 @@
         "age": 27,
         "active": true,
         "birthdate": "1994-05-01",
-        "profile_image": "https://example.com/khamzat_chimaev.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/3.png",
         "status": "active",
         "weightclass": ["welterweight"],
         "other_details": {
@@ -63,7 +63,7 @@
         "age": 33,
         "active": false,
         "birthdate": "1988-09-20",
-        "profile_image": "https://example.com/khabib_nurmagomedov.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/4.png",
         "status": "retired",
         "weightclass": ["lightweight"],
         "other_details": {
@@ -82,7 +82,7 @@
         "age": 32,
         "active": false,
         "birthdate": "1989-03-20",
-        "profile_image": "https://example.com/ottman_azaitar.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/5.png",
         "status": "inactive",
         "weightclass": ["lightweight"],
         "other_details": {
@@ -101,7 +101,7 @@
         "age": 35,
         "active": true,
         "birthdate": "1989-12-30",
-        "profile_image": "https://example.com/abubakar_azaitar.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/6.png",
         "status": "active",
         "weightclass": ["welterweight"],
         "other_details": {
@@ -120,7 +120,7 @@
         "age": 30,
         "active": true,
         "birthdate": "1991-09-27",
-        "profile_image": "https://example.com/islam_makhachev.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/7.png",
         "status": "active",
         "weightclass": ["lightweight"],
         "other_details": {
@@ -139,7 +139,7 @@
         "age": 27,
         "active": true,
         "birthdate": "1994-09-02",
-        "profile_image": "https://example.com/movsar_evloev.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/8.png",
         "status": "active",
         "weightclass": ["featherweight"],
         "other_details": {
@@ -158,7 +158,7 @@
         "age": 42,
         "active": false,
         "birthdate": "1979-03-20",
-        "profile_image": "https://example.com/daniel_cormier.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/9.png",
         "status": "retired",
         "weightclass": ["light heavyweight", "heavyweight"],
         "other_details": {
@@ -177,7 +177,7 @@
         "age": 32,
         "active": true,
         "birthdate": "1989-10-17",
-        "profile_image": "https://example.com/charles_oliveira.jpg",
+        "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/10.png",
         "status": "active",
         "weightclass": ["lightweight", "featherweight"],
         "other_details": {
@@ -196,7 +196,7 @@
       "age": 30,
       "active": true,
       "birthdate": "1991-12-04",
-      "profile_image": "https://example.com/max_holloway.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/11.png",
       "status": "active",
       "weightclass": ["featherweight", "lightweight"],
       "other_details": {
@@ -215,7 +215,7 @@
       "age": 38,
       "active": false,
       "birthdate": "1984-02-12",
-      "profile_image": "https://example.com/tony_ferguson.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/12.png",
       "status": "inactive",
       "weightclass": ["lightweight"],
       "other_details": {
@@ -234,7 +234,7 @@
       "age": 25,
       "active": true,
       "birthdate": "1996-02-09",
-      "profile_image": "https://example.com/youssef_zalal.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/13.png",
       "status": "kicked-out",
       "weightclass": ["featherweight"],
       "other_details": {
@@ -253,7 +253,7 @@
       "age": 33,
       "active": true,
       "birthdate": "1988-07-09",
-      "profile_image": "https://example.com/belal_muhammad.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/14.png",
       "status": "active",
       "weightclass": ["welterweight"],
       "other_details": {
@@ -272,7 +272,7 @@
       "age": 26,
       "active": true,
       "birthdate": "1995-05-20",
-      "profile_image": "https://example.com/shavkat_rakhmonov.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/15.png",
       "status": "active",
       "weightclass": ["welterweight"],
       "other_details": {
@@ -291,7 +291,7 @@
       "age": 34,
       "active": true,
       "birthdate": "1987-05-11",
-      "profile_image": "https://example.com/kamaru_usman.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/16.png",
       "status": "active",
       "weightclass": ["welterweight"],
       "other_details": {
@@ -310,7 +310,7 @@
       "age": 32,
       "active": true,
       "birthdate": "1989-07-22",
-      "profile_image": "https://example.com/israel_adesanya.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/17.png",
       "status": "active",
       "weightclass": ["middleweight", "light heavyweight"],
       "other_details": {
@@ -329,7 +329,7 @@
       "age": 37,
       "active": false,
       "birthdate": "1984-11-12",
-      "profile_image": "https://example.com/jorge_masvidal.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/18.png",
       "status": "retired",
       "weightclass": ["welterweight"],
       "other_details": {
@@ -348,7 +348,7 @@
       "age": 35,
       "active": true,
       "birthdate": "1986-09-05",
-      "profile_image": "https://example.com/francis_ngannou.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/19.png",
       "status": "active",
       "weightclass": ["heavyweight"],
       "other_details": {
@@ -367,7 +367,7 @@
       "age": 33,
       "active": true,
       "birthdate": "1989-01-19",
-      "profile_image": "https://example.com/dustin_poirier.jpg",
+      "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/20.png",
       "status": "active",
       "weightclass": ["lightweight"],
       "other_details": {
