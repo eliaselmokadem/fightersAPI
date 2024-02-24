@@ -327,10 +327,10 @@
       "name": "Jorge Masvidal",
       "nationality": "American",
       "age": 37,
-      "active": true,
+      "active": false,
       "birthdate": "1984-11-12",
       "profile_image": "https://example.com/jorge_masvidal.jpg",
-      "status": "active",
+      "status": "retired",
       "weightclass": ["welterweight"],
       "other_details": {
         "id": 118,
