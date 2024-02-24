@@ -188,5 +188,104 @@
           "record": "31-8-0",
           "stance": "southpaw"
         }
+    },
+    {
+      "id": 11,
+      "name": "Max Holloway",
+      "nationality": "American",
+      "age": 30,
+      "active": true,
+      "birthdate": "1991-12-04",
+      "profile_image": "https://example.com/max_holloway.jpg",
+      "status": "active",
+      "weightclass": ["featherweight", "lightweight"],
+      "other_details": {
+        "id": 111,
+        "height": 180,
+        "weight": 66,
+        "reach": 175,
+        "record": "22-6-0",
+        "stance": "orthodox"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Tony Ferguson",
+      "nationality": "American",
+      "age": 38,
+      "active": false,
+      "birthdate": "1984-02-12",
+      "profile_image": "https://example.com/tony_ferguson.jpg",
+      "status": "inactive",
+      "weightclass": ["lightweight"],
+      "other_details": {
+        "id": 112,
+        "height": 180,
+        "weight": 70,
+        "reach": 193,
+        "record": "25-6-0",
+        "stance": "orthodox"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Youssef Zalal",
+      "nationality": "Moroccan",
+      "age": 25,
+      "active": true,
+      "birthdate": "1996-02-09",
+      "profile_image": "https://example.com/youssef_zalal.jpg",
+      "status": "kicked-out",
+      "weightclass": ["featherweight"],
+      "other_details": {
+        "id": 113,
+        "height": 180,
+        "weight": 66,
+        "reach": 175,
+        "record": "10-4-0",
+        "stance": "southpaw"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Belal Muhammad",
+      "nationality": "American",
+      "age": 33,
+      "active": true,
+      "birthdate": "1988-07-09",
+      "profile_image": "https://example.com/belal_muhammad.jpg",
+      "status": "active",
+      "weightclass": ["welterweight"],
+      "other_details": {
+        "id": 114,
+        "height": 178,
+        "weight": 77,
+        "reach": 185,
+        "record": "19-3-0",
+        "stance": "orthodox"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Shavkat Rakhmonov",
+      "nationality": "Kazakhstani",
+      "age": 26,
+      "active": true,
+      "birthdate": "1995-05-20",
+      "profile_image": "https://example.com/shavkat_rakhmonov.jpg",
+      "status": "active",
+      "weightclass": ["welterweight"],
+      "other_details": {
+        "id": 115,
+        "height": 183,
+        "weight": 77,
+        "reach": 188,
+        "record": "15-0-0",
+        "stance": "orthodox"
+      }
     }
+        
+    
+    
+    
 ]
