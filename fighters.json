@@ -283,9 +283,100 @@
         "record": "15-0-0",
         "stance": "orthodox"
       }
-    }
-        
-    
-    
-    
+    },
+    {
+      "id": 16,
+      "name": "Kamaru Usman",
+      "nationality": "Nigerian",
+      "age": 34,
+      "active": true,
+      "birthdate": "1987-05-11",
+      "profile_image": "https://example.com/kamaru_usman.jpg",
+      "status": "active",
+      "weightclass": ["welterweight"],
+      "other_details": {
+        "id": 116,
+        "height": 183,
+        "weight": 77,
+        "reach": 193,
+        "record": "19-1-0",
+        "stance": "orthodox"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Israel Adesanya",
+      "nationality": "Nigerian",
+      "age": 32,
+      "active": true,
+      "birthdate": "1989-07-22",
+      "profile_image": "https://example.com/israel_adesanya.jpg",
+      "status": "active",
+      "weightclass": ["middleweight", "light heavyweight"],
+      "other_details": {
+        "id": 117,
+        "height": 193,
+        "weight": 84,
+        "reach": 203,
+        "record": "21-1-0",
+        "stance": "switch"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Jorge Masvidal",
+      "nationality": "American",
+      "age": 37,
+      "active": true,
+      "birthdate": "1984-11-12",
+      "profile_image": "https://example.com/jorge_masvidal.jpg",
+      "status": "active",
+      "weightclass": ["welterweight"],
+      "other_details": {
+        "id": 118,
+        "height": 180,
+        "weight": 77,
+        "reach": 188,
+        "record": "35-15-0",
+        "stance": "orthodox"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Francis Ngannou",
+      "nationality": "Cameroonian",
+      "age": 35,
+      "active": true,
+      "birthdate": "1986-09-05",
+      "profile_image": "https://example.com/francis_ngannou.jpg",
+      "status": "active",
+      "weightclass": ["heavyweight"],
+      "other_details": {
+        "id": 119,
+        "height": 193,
+        "weight": 120,
+        "reach": 206,
+        "record": "16-3-0",
+        "stance": "orthodox"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Dustin Poirier",
+      "nationality": "American",
+      "age": 33,
+      "active": true,
+      "birthdate": "1989-01-19",
+      "profile_image": "https://example.com/dustin_poirier.jpg",
+      "status": "active",
+      "weightclass": ["lightweight"],
+      "other_details": {
+        "id": 120,
+        "height": 175,
+        "weight": 70,
+        "reach": 183,
+        "record": "28-7-0",
+        "stance": "southpaw"
+      }
+    }     
 ]
