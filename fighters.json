@@ -8,15 +8,7 @@
         "birthdate": "1988-07-14",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/1.png",
         "status": "active",
-        "weightclass": ["featherweight", "lightweight", "welterweight"],
-        "other_details": {
-          "id": 101,
-          "height": 175,
-          "weight": 70,
-          "reach": 188,
-          "record": "22-5-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["featherweight", "lightweight", "welterweight"]
     },  
     {
         "id": 2,
@@ -27,15 +19,7 @@
         "birthdate": "1993-09-12",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/2.png",
         "status": "active",
-        "weightclass": ["lightweight"],
-        "other_details": {
-          "id": 102,
-          "height": 180,
-          "weight": 70,
-          "reach": 185,
-          "record": "14-3-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["lightweight"]
     },      
     {
         "id": 3,
@@ -46,15 +30,8 @@
         "birthdate": "1994-05-01",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/3.png",
         "status": "active",
-        "weightclass": ["welterweight"],
-        "other_details": {
-          "id": 103,
-          "height": 185,
-          "weight": 77,
-          "reach": 191,
-          "record": "10-0-0",
-          "stance": "southpaw"
-        }
+        "weightclass": ["welterweight"]
+
     },
     {
         "id": 4,
@@ -65,15 +42,7 @@
         "birthdate": "1988-09-20",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/4.png",
         "status": "retired",
-        "weightclass": ["lightweight"],
-        "other_details": {
-          "id": 104,
-          "height": 178,
-          "weight": 70,
-          "reach": 177,
-          "record": "29-0-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["lightweight"]
     },
     {
         "id": 5,
@@ -84,15 +53,7 @@
         "birthdate": "1989-03-20",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/5.png",
         "status": "inactive",
-        "weightclass": ["lightweight"],
-        "other_details": {
-          "id": 105,
-          "height": 175,
-          "weight": 70,
-          "reach": 178,
-          "record": "13-0-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["lightweight"]
     },
     {
         "id": 6,
@@ -103,15 +64,7 @@
         "birthdate": "1989-12-30",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/6.png",
         "status": "active",
-        "weightclass": ["welterweight"],
-        "other_details": {
-          "id": 106,
-          "height": 180,
-          "weight": 77,
-          "reach": 185,
-          "record": "14-3-1",
-          "stance": "orthodox"
-        }
+        "weightclass": ["welterweight"]
     },
     {
         "id": 7,
@@ -122,15 +75,7 @@
         "birthdate": "1991-09-27",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/7.png",
         "status": "active",
-        "weightclass": ["lightweight"],
-        "other_details": {
-          "id": 107,
-          "height": 177,
-          "weight": 70,
-          "reach": 178,
-          "record": "21-1-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["lightweight"]
     },
     {
         "id": 8,
@@ -141,15 +86,7 @@
         "birthdate": "1994-09-02",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/8.png",
         "status": "active",
-        "weightclass": ["featherweight"],
-        "other_details": {
-          "id": 108,
-          "height": 172,
-          "weight": 66,
-          "reach": 175,
-          "record": "15-0-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["featherweight"]
     },
     {
         "id": 9,
@@ -160,15 +97,7 @@
         "birthdate": "1979-03-20",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/9.png",
         "status": "retired",
-        "weightclass": ["light heavyweight", "heavyweight"],
-        "other_details": {
-          "id": 109,
-          "height": 180,
-          "weight": 109,
-          "reach": 185,
-          "record": "22-3-0",
-          "stance": "orthodox"
-        }
+        "weightclass": ["light heavyweight", "heavyweight"]
     },
     {
         "id": 10,
@@ -179,15 +108,7 @@
         "birthdate": "1989-10-17",
         "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/10.png",
         "status": "active",
-        "weightclass": ["lightweight", "featherweight"],
-        "other_details": {
-          "id": 110,
-          "height": 180,
-          "weight": 70,
-          "reach": 190,
-          "record": "31-8-0",
-          "stance": "southpaw"
-        }
+        "weightclass": ["lightweight", "featherweight"]
     },
     {
       "id": 11,
@@ -198,15 +119,7 @@
       "birthdate": "1991-12-04",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/11.png",
       "status": "active",
-      "weightclass": ["featherweight", "lightweight"],
-      "other_details": {
-        "id": 111,
-        "height": 180,
-        "weight": 66,
-        "reach": 175,
-        "record": "22-6-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["featherweight", "lightweight"]
     },
     {
       "id": 12,
@@ -217,15 +130,7 @@
       "birthdate": "1984-02-12",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/12.png",
       "status": "inactive",
-      "weightclass": ["lightweight"],
-      "other_details": {
-        "id": 112,
-        "height": 180,
-        "weight": 70,
-        "reach": 193,
-        "record": "25-6-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["lightweight"]
     },
     {
       "id": 13,
@@ -236,15 +141,7 @@
       "birthdate": "1996-02-09",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/13.png",
       "status": "kicked-out",
-      "weightclass": ["featherweight"],
-      "other_details": {
-        "id": 113,
-        "height": 180,
-        "weight": 66,
-        "reach": 175,
-        "record": "10-4-0",
-        "stance": "southpaw"
-      }
+      "weightclass": ["featherweight"]
     },
     {
       "id": 14,
@@ -255,15 +152,7 @@
       "birthdate": "1988-07-09",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/14.png",
       "status": "active",
-      "weightclass": ["welterweight"],
-      "other_details": {
-        "id": 114,
-        "height": 178,
-        "weight": 77,
-        "reach": 185,
-        "record": "19-3-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["welterweight"]
     },
     {
       "id": 15,
@@ -274,15 +163,7 @@
       "birthdate": "1995-05-20",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/15.png",
       "status": "active",
-      "weightclass": ["welterweight"],
-      "other_details": {
-        "id": 115,
-        "height": 183,
-        "weight": 77,
-        "reach": 188,
-        "record": "15-0-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["welterweight"]
     },
     {
       "id": 16,
@@ -293,15 +174,7 @@
       "birthdate": "1987-05-11",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/16.png",
       "status": "active",
-      "weightclass": ["welterweight"],
-      "other_details": {
-        "id": 116,
-        "height": 183,
-        "weight": 77,
-        "reach": 193,
-        "record": "19-1-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["welterweight"]
     },
     {
       "id": 17,
@@ -312,15 +185,7 @@
       "birthdate": "1989-07-22",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/17.png",
       "status": "active",
-      "weightclass": ["middleweight", "light heavyweight"],
-      "other_details": {
-        "id": 117,
-        "height": 193,
-        "weight": 84,
-        "reach": 203,
-        "record": "21-1-0",
-        "stance": "switch"
-      }
+      "weightclass": ["middleweight", "light heavyweight"]
     },
     {
       "id": 18,
@@ -331,15 +196,7 @@
       "birthdate": "1984-11-12",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/18.png",
       "status": "retired",
-      "weightclass": ["welterweight"],
-      "other_details": {
-        "id": 118,
-        "height": 180,
-        "weight": 77,
-        "reach": 188,
-        "record": "35-15-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["welterweight"]
     },
     {
       "id": 19,
@@ -350,15 +207,7 @@
       "birthdate": "1986-09-05",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/19.png",
       "status": "active",
-      "weightclass": ["heavyweight"],
-      "other_details": {
-        "id": 119,
-        "height": 193,
-        "weight": 120,
-        "reach": 206,
-        "record": "16-3-0",
-        "stance": "orthodox"
-      }
+      "weightclass": ["heavyweight"]
     },
     {
       "id": 20,
@@ -369,14 +218,6 @@
       "birthdate": "1989-01-19",
       "profile_image": "https://eliaselmokadem.github.io/fightersAPI/assets/20.png",
       "status": "active",
-      "weightclass": ["lightweight"],
-      "other_details": {
-        "id": 120,
-        "height": 175,
-        "weight": 70,
-        "reach": 183,
-        "record": "28-7-0",
-        "stance": "southpaw"
-      }
+      "weightclass": ["lightweight"]
     }     
 ]
