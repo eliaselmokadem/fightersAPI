@@ -15,7 +15,9 @@
         "weight": 70,
         "reach": 188,
         "record": "22-5-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "5",
+        "champion": "lightweight"
       }
   },  
   {
@@ -34,7 +36,10 @@
         "weight": 70,
         "reach": 185,
         "record": "14-3-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "15",
+        "champion": null
+        
       }
   },      
   {
@@ -53,13 +58,15 @@
         "weight": 77,
         "reach": 191,
         "record": "10-0-0",
-        "stance": "southpaw"
+        "stance": "southpaw",
+        "ranking": "6",
+        "champion": null
       }
   },
   {
       "id": 4,
       "name": "Khabib Nurmagomedov",
-      "nationality": "Russian",
+      "nationality": "Russian (Dagestan)",
       "age": 33,
       "active": false,
       "birthdate": "1988-09-20",
@@ -72,7 +79,9 @@
         "weight": 70,
         "reach": 177,
         "record": "29-0-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "champion",
+        "champion": "lightweight"
       }
   },
   {
@@ -91,7 +100,9 @@
         "weight": 70,
         "reach": 178,
         "record": "13-0-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "12",
+        "champion": null
       }
   },
   {
@@ -110,13 +121,15 @@
         "weight": 77,
         "reach": 185,
         "record": "14-3-1",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "16",
+        "champion": null
       }
   },
   {
       "id": 7,
       "name": "Islam Makhachev",
-      "nationality": "Russian",
+      "nationality": "Russian (Dagestan)",
       "age": 30,
       "active": true,
       "birthdate": "1991-09-27",
@@ -129,13 +142,15 @@
         "weight": 70,
         "reach": 178,
         "record": "21-1-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "champion",
+        "champion": "lightweight"
       }
   },
   {
       "id": 8,
       "name": "Movsar Evloev",
-      "nationality": "Russian",
+      "nationality": "Russian (Ingushetia)",
       "age": 27,
       "active": true,
       "birthdate": "1994-09-02",
@@ -148,7 +163,9 @@
         "weight": 66,
         "reach": 175,
         "record": "15-0-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "4",
+        "champion": null
       }
   },
   {
@@ -167,7 +184,9 @@
         "weight": 109,
         "reach": 185,
         "record": "22-3-0",
-        "stance": "orthodox"
+        "stance": "orthodox",
+        "ranking": "champion",
+        "champion": "heavyweight"
       }
   },
   {
@@ -186,7 +205,9 @@
         "weight": 70,
         "reach": 190,
         "record": "31-8-0",
-        "stance": "southpaw"
+        "stance": "southpaw",
+        "ranking": "3",
+        "champion": null
       }
   },
   {
@@ -205,7 +226,9 @@
       "weight": 66,
       "reach": 175,
       "record": "22-6-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "10",
+      "champion": null
     }
   },
   {
@@ -224,7 +247,9 @@
       "weight": 70,
       "reach": 193,
       "record": "25-6-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "14",
+      "champion": null
     }
   },
   {
@@ -243,7 +268,9 @@
       "weight": 66,
       "reach": 175,
       "record": "10-4-0",
-      "stance": "southpaw"
+      "stance": "southpaw",
+      "ranking": "20",
+      "champion": null
     }
   },
   {
@@ -262,7 +289,9 @@
       "weight": 77,
       "reach": 185,
       "record": "19-3-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "5",
+      "champion": null
     }
   },
   {
@@ -281,7 +310,9 @@
       "weight": 77,
       "reach": 188,
       "record": "15-0-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "2",
+      "champion": null
     }
   },
   {
@@ -300,7 +331,9 @@
       "weight": 77,
       "reach": 193,
       "record": "19-1-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "champion",
+      "champion": "welterweight"
     }
   },
   {
@@ -319,7 +352,9 @@
       "weight": 84,
       "reach": 203,
       "record": "21-1-0",
-      "stance": "switch"
+      "stance": "switch",
+      "ranking": "9",
+      "champion": null
     }
   },
   {
@@ -338,7 +373,9 @@
       "weight": 77,
       "reach": 188,
       "record": "35-15-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "champion",
+      "champion": "welterweight"
     }
   },
   {
@@ -357,7 +394,9 @@
       "weight": 120,
       "reach": 206,
       "record": "16-3-0",
-      "stance": "orthodox"
+      "stance": "orthodox",
+      "ranking": "champion",
+      "champion": "heavyweight"
     }
   },
   {
@@ -376,7 +415,9 @@
       "weight": 70,
       "reach": 183,
       "record": "28-7-0",
-      "stance": "southpaw"
+      "stance": "southpaw",
+      "ranking": "6",
+      "champion": null
     }
   }     
 ]
