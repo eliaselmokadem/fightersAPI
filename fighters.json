@@ -16,7 +16,7 @@
         "reach": 188,
         "record": "22-5-0",
         "stance": "orthodox",
-        "ranking": "5",
+        "ranking": 5,
         "champion": "lightweight"
       }
   },  
@@ -37,7 +37,7 @@
         "reach": 185,
         "record": "14-3-0",
         "stance": "orthodox",
-        "ranking": "15",
+        "ranking": 15,
         "champion": null
         
       }
@@ -59,7 +59,7 @@
         "reach": 191,
         "record": "10-0-0",
         "stance": "southpaw",
-        "ranking": "6",
+        "ranking": 6,
         "champion": null
       }
   },
@@ -80,7 +80,7 @@
         "reach": 177,
         "record": "29-0-0",
         "stance": "orthodox",
-        "ranking": "champion",
+        "ranking": 1,
         "champion": "lightweight"
       }
   },
@@ -101,7 +101,7 @@
         "reach": 178,
         "record": "13-0-0",
         "stance": "orthodox",
-        "ranking": "12",
+        "ranking": 12,
         "champion": null
       }
   },
@@ -122,7 +122,7 @@
         "reach": 185,
         "record": "14-3-1",
         "stance": "orthodox",
-        "ranking": "16",
+        "ranking": 16,
         "champion": null
       }
   },
@@ -143,7 +143,7 @@
         "reach": 178,
         "record": "21-1-0",
         "stance": "orthodox",
-        "ranking": "champion",
+        "ranking": 1,
         "champion": "lightweight"
       }
   },
@@ -164,7 +164,7 @@
         "reach": 175,
         "record": "15-0-0",
         "stance": "orthodox",
-        "ranking": "4",
+        "ranking": 4,
         "champion": null
       }
   },
@@ -185,7 +185,7 @@
         "reach": 185,
         "record": "22-3-0",
         "stance": "orthodox",
-        "ranking": "champion",
+        "ranking": 19,
         "champion": "heavyweight"
       }
   },
@@ -206,7 +206,7 @@
         "reach": 190,
         "record": "31-8-0",
         "stance": "southpaw",
-        "ranking": "3",
+        "ranking": 3,
         "champion": null
       }
   },
@@ -227,7 +227,7 @@
       "reach": 175,
       "record": "22-6-0",
       "stance": "orthodox",
-      "ranking": "10",
+      "ranking": 9,
       "champion": null
     }
   },
@@ -248,7 +248,7 @@
       "reach": 193,
       "record": "25-6-0",
       "stance": "orthodox",
-      "ranking": "14",
+      "ranking": 14,
       "champion": null
     }
   },
@@ -269,7 +269,7 @@
       "reach": 175,
       "record": "10-4-0",
       "stance": "southpaw",
-      "ranking": "20",
+      "ranking": 20,
       "champion": null
     }
   },
@@ -290,7 +290,7 @@
       "reach": 185,
       "record": "19-3-0",
       "stance": "orthodox",
-      "ranking": "5",
+      "ranking": 5,
       "champion": null
     }
   },
@@ -311,7 +311,7 @@
       "reach": 188,
       "record": "15-0-0",
       "stance": "orthodox",
-      "ranking": "2",
+      "ranking": 2,
       "champion": null
     }
   },
@@ -332,7 +332,7 @@
       "reach": 193,
       "record": "19-1-0",
       "stance": "orthodox",
-      "ranking": "champion",
+      "ranking": 3,
       "champion": "welterweight"
     }
   },
@@ -353,7 +353,7 @@
       "reach": 203,
       "record": "21-1-0",
       "stance": "switch",
-      "ranking": "9",
+      "ranking": 7,
       "champion": null
     }
   },
@@ -374,7 +374,7 @@
       "reach": 188,
       "record": "35-15-0",
       "stance": "orthodox",
-      "ranking": "champion",
+      "ranking": 13,
       "champion": "welterweight"
     }
   },
@@ -395,7 +395,7 @@
       "reach": 206,
       "record": "16-3-0",
       "stance": "orthodox",
-      "ranking": "champion",
+      "ranking": 5,
       "champion": "heavyweight"
     }
   },
@@ -416,7 +416,7 @@
       "reach": 183,
       "record": "28-7-0",
       "stance": "southpaw",
-      "ranking": "6",
+      "ranking": 6,
       "champion": null
     }
   }     
